@@ -1,18 +1,18 @@
         canvas {
             border: 1px solid black;
-                size:200px;
+             
         }
         
         video {
             border: 1px solid blue;
-                   size:200px;
+                 
         }
         
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-         
+         display:flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
