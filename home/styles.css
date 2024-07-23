@@ -1,9 +1,11 @@
         canvas {
             border: 1px solid black;
+                size:200px
         }
         
         video {
             border: 1px solid blue;
+                   size:200px
         }
         
         body {
